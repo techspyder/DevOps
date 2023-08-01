@@ -4,3 +4,5 @@ git logs
 git commit -m "Adding commit Msg"
 git log --oneline
 git checkout <Branch_Name>
+git clone
+git remote --v
